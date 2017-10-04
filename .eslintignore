@@ -2,3 +2,4 @@
 /tests/**
 /tests/*.js
 /tests/**/*.js
+webpack.config.babel.js
